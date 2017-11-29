@@ -19,10 +19,10 @@ Smart TTS is a custom sun pack for teamspeak 3. It's a mix between the default f
  - **Smart TTS** is the recommeneded soundpack for everyone, it is simple, consise and works very well.
  
  - On the other hand **Smart TTS Extended** is more complex and overloaded with actions. You you use it on a big server or dont configure ir properlly to disable unecessary sounds it can be **very annoying**. It adds sounds that aren't directly connected with your client/channel for example:
-  - `username` created an channel
-  - `username` was banned by `username`
-  - `username` joined the server
-  - .... and more
+   - `username` created an channel
+   - `username` was banned by `username`
+   - `username` joined the server
+   - .... and more
 
 ## Windows 8, 10 and later
 This soundpack was originally designed for Windows 7. On 8, 10 and later you may need to tweak Windows text-to-speech settings.
